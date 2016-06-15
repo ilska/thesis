@@ -11,3 +11,4 @@ Steps to be performed:
 * extract fourier pyramid decomposition
 * classify DTW and DTW + Fourier
 * analyse the results
+* Document properly
